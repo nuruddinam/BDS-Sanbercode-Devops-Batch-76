@@ -1,0 +1,10 @@
+1. Nama: Nuruddin Abdurrahman Maulana
+2. Email: nuruddinam46@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun GitHub: https://github.com/nuruddinam
+5. Akun Telegram: @Nuruddinam
+6. Bahasa Pemrograman/Stack Yang dikuasai:
+   - Manual Testing
+   - Katalon
+   - Groovy
+   - Basic Github
