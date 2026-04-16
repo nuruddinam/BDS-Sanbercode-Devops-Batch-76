@@ -1,0 +1,7 @@
+Hasil Review AI
+
+Saran dari AI:
+AI menyarankan agar script ditambahkan pengecekan apakah file syslog.txt ada atau tidak sebelum proses backup dijalankan. Selain itu, script juga sebaiknya memiliki penanganan error supaya jika terjadi kegagalan saat membuat folder atau menyalin file, script bisa langsung berhenti dan memberikan informasi yang jelas.
+
+Pendapat Saya:
+Menurut saya saran dari AI cukup masuk akal, karena script yang saya buat masih sangat sederhana dan hanya fokus menjalankan perintah dasar. Saya baru menyadari bahwa jika file sumber tidak ada, script tetap berjalan tanpa memberi peringatan yang jelas. Untuk tahap belajar awal script ini sudah berfungsi, tetapi memang masih perlu ditingkatkan supaya lebih aman jika digunakan di lingkungan nyata.
